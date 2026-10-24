@@ -11,7 +11,7 @@ Laravel Sail と Docker を使って、Tutorial 9〜10 のハンズオンで使�
 - MySQL, phpMyAdmin
 
 ## 学んだこと
-- Laravel Sail をでの環境構築
+- Laravel Sail での環境構築
 - compose.yaml の記述方法
 - sail artisan key:generate による鍵生成の必要性
 
